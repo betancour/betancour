@@ -1,6 +1,8 @@
 ### Hi there 👋
 # I'm Yitzhak ✌
 On Hebrew it's יִצְחָק 
+🤟
+He/Him/His
 
 Thanks for following my work at GitHub
 
