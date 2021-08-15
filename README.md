@@ -1,6 +1,6 @@
 ### Hey there 👋
 # I'm Yitzhak ✌
-# On Hebrew it's יִצְחָק 
+#### On Hebrew it's יִצְחָק 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=betancour.betancour)
 
@@ -18,9 +18,9 @@
 
 <br />
 
-Thanks for following my work at GitHub
+### Thanks for following my work at GitHub
 
-
+<br />
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -33,5 +33,4 @@ Thanks for following my work at GitHub
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 
