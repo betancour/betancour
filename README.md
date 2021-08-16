@@ -29,4 +29,5 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <br />
+
 ![](https://visitor-badge.glitch.me/badge?page_id=betancour.betancour)
