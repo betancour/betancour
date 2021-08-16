@@ -1,10 +1,6 @@
-### Hey there 👋
+### Hello!
 
-# I'm Yitzhak ✌
-
-#### On Hebrew it's יִצְחָק
-
-![](https://visitor-badge.glitch.me/badge?page_id=betancour.betancour)
+# I'm Yitzhak ✌ 🖖
 
 <a href="https://twitter.com/betancour">
   <img align="left" alt="יִצְחַק - Yitzhak
@@ -26,8 +22,11 @@
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+<br />
+![](https://visitor-badge.glitch.me/badge?page_id=betancour.betancour)
