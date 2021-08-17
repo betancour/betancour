@@ -1,4 +1,4 @@
-### Hello!
+### **Hello!**
 
 # I'm Yitzhak ✌ 🖖
 
@@ -6,9 +6,11 @@
   <img align="left" alt="יִצְחַק - Yitzhak
  | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/yitzhak-solorzano/">
   <img align="left" alt="Yitzhak Solorzano" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <a href="https://open.spotify.com/user/22iggd5haojcykfmdzkjia25y">
   <img align="left" alt="Yitzhak's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
@@ -18,7 +20,8 @@
 ### Thanks for following my work at GitHub
 
 <br />
-**languages and tools:**
+
+### **languages and tools:**
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
