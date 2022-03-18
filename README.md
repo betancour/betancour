@@ -11,10 +11,6 @@
   <img align="left" alt="Yitzhak Solorzano" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://open.spotify.com/user/22iggd5haojcykfmdzkjia25y">
-  <img align="left" alt="Yitzhak's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 <br />
 
 ### Thanks for following my work at GitHub
