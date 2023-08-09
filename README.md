@@ -2,15 +2,6 @@
 
 # I'm Yitzhak ✌ 🖖
 
-<a href="https://twitter.com/betancour">
-  <img align="left" alt="יִצְחַק - Yitzhak
- | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/yitzhak-solorzano/">
-  <img align="left" alt="Yitzhak Solorzano" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <br />
 
 ### Thanks for following my work at GitHub
